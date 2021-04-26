@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "amphp/artax": "dev-master"
+        "amphp/artax": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
