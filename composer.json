@@ -1,5 +1,5 @@
 {
-    "name": "DavidLJz/torrent-php",
+    "name": "davidljz/torrent-php",
     "type": "library",
     "description": "Library for talking to various torrent clients with PHP",
     "keywords": ["torrent","php"],
